@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'znikomitno24regular';
+    src: url('../fonts/znikomitno24-webfont.woff2') format('woff2'),
+         url('../fonts/znikomitno24-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+#aboutbuttoncircle{border-radius: 50%; 	width: 200px; 	height: 200px; 
+
+}
+.flt_right{
+	Float: right;
+	margin-left: 10px}
+.flt_left{
+	float:left;
+	margin-right: 10px;
+}
+.flt_center{
+	float:center;
+	}
+#homeheader {
+	height: 768px;
+	background-color: #628A9D;
+}
+
+#mainimage{
+	height: 505px;
+	width: 938px;
+
+}
+#aboutbutton {
+	height: 180px;
+	width: 180px;
+	left: 25%;
+	background-color: #A9D5EA;
+}
+
+#portfoliobutton {
+	height: 180px;
+	width: 180px;
+	right: 50%;
+	left: 50%;
+	top: 50%;
+	bottom: 50%;
+	background-color: #A9D5EA;
+}
+	
