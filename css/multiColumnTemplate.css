@@ -97,6 +97,7 @@
 .secondary_header ul li:hover {
 	color: #717070;
 	cursor: pointer;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 }
 .left_article {
 	background-color: #FFFFFF;
